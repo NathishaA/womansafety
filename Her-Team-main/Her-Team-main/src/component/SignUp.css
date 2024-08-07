@@ -1,0 +1,10 @@
+.background {
+    background-image: url('C:\Users\anath\OneDrive\Desktop\Helper\Her-Team-main\Her-Team-main\src\pics\portrait-young-woman-standing-against-yellow-background_1048944-5432831.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

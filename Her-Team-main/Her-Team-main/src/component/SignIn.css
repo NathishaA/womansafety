@@ -1,0 +1,10 @@
+.backgroundd {
+    background-image: url('C:\Users\anath\OneDrive\Desktop\Helper\Her-Team-main\Her-Team-main\src\pics\tourism-lifestyle-concept-beautiful-asian-woman-showing-her-clean-cute-face-wearing-sunglasses-s_1258-161956.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

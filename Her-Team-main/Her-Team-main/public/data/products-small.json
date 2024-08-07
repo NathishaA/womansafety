@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "1000",
+            "name": "Bamboo Watch",
+            "description": "Product Description",
+            "price": 65,
+            "category": "Accessories",
+            "quantity": 24,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "image": "bamboo-watch.jpg"
+        },
+        {
+            "id": "1001",
+            "name": "Black Watch",
+            "description": "Product Description",
+            "price": 72,
+            "category": "Accessories",
+            "quantity": 61,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4,
+            "image": "black-watch.jpg"
+        },
+        {
+            "id": "1002",
+            "name": "Blue Band",
+            "description": "Product Description",
+            "price": 79,
+            "category": "Fitness",
+            "quantity": 2,
+            "inventoryStatus": "LOWSTOCK",
+            "rating": 3,
+            "image": "blue-band.jpg"
+        },
+        {
+            "id": "1003",
+            "name": "Blue T-Shirt",
+            "description": "Product Description",
+            "price": 29,
+            "category": "Clothing",
+            "quantity": 25,
+            "inventoryStatus": "INSTOCK",
+            "rating": 5,
+            "image": "blue-t-shirt.jpg"
+        },
+        {
+            "id": "1004",
+            "name": "Bracelet",
+            "description": "Product Description",
+            "price": 15,
+            "category": "Accessories",
+            "quantity": 73,
+            "inventoryStatus": "INSTOCK",
+            "rating": 4,
+            "image": "bracelet.jpg"
+        }
+    ]
+}
