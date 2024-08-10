@@ -1,0 +1,13 @@
+.background {
+  background-image: url('https://img.freepik.com/premium-photo/pink-solid-background_776894-82325.jpg?w=826');
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-position: center;
+  background-repeat: no-repeat; /* Prevents repeating the image */
+  background-attachment: fixed; /* Keeps the background fixed during scrolling */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Prevents scrollbars if the image is slightly larger than the viewport */
+}

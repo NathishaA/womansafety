@@ -1,0 +1,15 @@
+.navbar-image {
+  display: flex;
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-photo/image-beautiful-young-lady-dress-biting-finger-smiling-staring-with-temptation-amazeme_1258-156812.jpg?w=1380&t=st=1722937082~exp=1722937682~hmac=8bedf65fb2defae6e6122cb9b3da56363192f652d5c1f378e565e65e563828ad'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.app-bar {
+  background-color: #f06292; /* Pink color */
+   /* Rounded bottom corners */
+  box-shadow: none; /* Optional: remove shadow */
+}
+
